@@ -9,3 +9,6 @@ npm init -y
 <br>
 
 npm i dotenv openai
+<br>
+
+Open .env to add your own API Key
